@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shreeyamane
+- 👋 Hi, I’m Shreeya Mane
 - 👾 Into AI and Machine Learning 
 
 <!---
